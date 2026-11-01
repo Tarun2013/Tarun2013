@@ -1,24 +1,23 @@
-## Hithero 👋
+## Hi there 👋
 
 - 🔭 **I’m currently working on:**
   **ApexAlert:** Global alert app/website for communities to be alerted on natural calamities, everyday traffic, animal sightings, missing persons, etc. A one-stop site that gives people insight into their city and community, using information as required.
 
 - 🌱 **I’m currently learning:**
-  Agentic AI—I have created Python agents and am learning how to train them.
+  Agentic AI—I and I have created Python agents and learning how to train them.
 
 - 👯 **My Certifications and Awards:**
   - CS50 Python Certified 2026: [CS50 Verified Certificate](https://github.com/user-attachments/files/33741233/CS50.Verified.certificate.pdf)
   - 2025 Code Craze State Level Silver Medalist
   - 2023–2025: Regional Silver and Bronze Medalist in Regional Science Olympiads
 
-- 🤔 **My Fusion Projects:**
+- 🤔 **My Fusion 360 Projects:**
 
 <p align="center">
   <img width="436" height="245" alt="IMG_7275" src="https://github.com/user-attachments/assets/12b8f1ce-7d12-453f-a1dc-922d69e10014" />
   <img width="1680" height="945" alt="IMG_7272" src="https://github.com/user-attachments/assets/31269ff3-75f6-4d85-bedb-79b436a85893" />
   <img width="1680" height="945" alt="IMG_7267" src="https://github.com/user-attachments/assets/d8825477-d9ba-4fac-99cd-02736e51b570" />
-  <img width="945" height="945" alt="IMG_5316" src="https://github.com/user-attachments/assets/4895555b-24c7-4ac0-82be-622afa2ad742" />
-  <img width="945" height="945" alt="IMG_5312" src="https://github.com/user-attachments/assets/e447ff6f-0692-4cb8-9163-727e7d27e302" />
++  <img width="945" height="945" alt="IMG_5312" src="https://github.com/user-attachments/assets/e447ff6f-0692-4cb8-9163-727e7d27e302" />
   <img width="709" height="945" alt="IMG_5307" src="https://github.com/user-attachments/assets/6154b6a5-66f1-4caa-a4c1-315a790c3c63" />
   <img width="945" height="945" alt="IMG_5302" src="https://github.com/user-attachments/assets/b47452e4-2f5b-4c04-9bff-c33c56db1990" />
   <img width="370" height="213" alt="IMG_5295" src="https://github.com/user-attachments/assets/a7477abd-a436-40da-a74a-9f679b781af1" />
@@ -50,3 +49,5 @@
 </p>
 
 - 💬 **My Python Projects:**
+
+- 
